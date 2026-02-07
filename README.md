@@ -1,6 +1,6 @@
 # 💜 LAURA – Laboratório de Apoio ao Risco Obstétrico com IA
 
-> _Este projeto nasceu do amor por uma menina chamada Laura e do desejo de que outras famílias tenham mais tempo, mais cuidado e mais chances do que nós tivemos._
+> _Este projeto é um abraço que não pude mais dar na minha filha Laura. É a forma que encontrei de transformar a saudade em cuidado, para que outras famílias tenham as chances e o tempo que nós tanto desejamos._
 
 O **LAURA** é um projeto open source que utiliza Inteligência Artificial explicável para apoiar a identificação precoce de riscos materno-neonatais, a partir de dados públicos do SUS (SINASC e SIM).  
 Ele foi criado para transformar estatísticas em cuidado real — ajudando profissionais de saúde a enxergar, mais cedo, situações que merecem atenção.

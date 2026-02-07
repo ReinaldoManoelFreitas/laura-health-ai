@@ -1,6 +1,6 @@
 # 💜 LAURA – AI-Based Maternal Risk Support Laboratory
 
-> *This project was born from the love for a girl named Laura and from the hope that other families may have more time, more care, and more chances than we had.*
+> *This project is a hug I could no longer give to my daughter Laura. It is the way I found to transform longing into care, so that other families may have the chances and the time we so deeply wished for.*
 
 **LAURA** is an open-source project that uses explainable Artificial Intelligence to support the early identification of maternal and neonatal risks, based on public health data from the Brazilian SUS (SINASC and SIM systems).
 Its purpose is to transform statistics into real care — helping health professionals to see, earlier, situations that deserve closer attention.
