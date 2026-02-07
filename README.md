@@ -1,4 +1,4 @@
-# 💜 LAURA – Laboratório de Apoio ao Risco Obstétrico com IA
+# 💜 LAURA – Learning Analytics for Unified Risk Assessment (Aprendizado Analítico para Avaliação Unificada de Risco)
 
 > _Este projeto é um abraço que não pude mais dar na minha filha Laura. É a forma que encontrei de transformar a saudade em cuidado, para que outras famílias tenham as chances e o tempo que nós tanto desejamos._
 

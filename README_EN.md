@@ -1,4 +1,4 @@
-# 💜 LAURA – AI-Based Maternal Risk Support Laboratory
+# 💜 LAURA – Learning Analytics for Unified Risk Assessment
 
 > *This project is a hug I could no longer give to my daughter Laura. It is the way I found to transform longing into care, so that other families may have the chances and the time we so deeply wished for.*
 
