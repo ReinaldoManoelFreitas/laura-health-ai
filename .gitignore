@@ -1,3 +1,22 @@
+
+=======
+# Dados
+data/
+*.csv
+*.parquet
+*.dbc
+*.dbf
+
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Modelos grandes (opcional)
+models/*.bin
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

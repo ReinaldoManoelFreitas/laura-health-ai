@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+xgboost
+shap
+pyarrow
+joblib
+pydantic
